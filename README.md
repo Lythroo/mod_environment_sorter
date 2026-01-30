@@ -2,9 +2,7 @@
 
 Automatically sort Minecraft mods into client-only, server-only, and both using the Modrinth API.
 
-   ```markdown
    ![GUI Screenshot](screenshots/Preview.png)
-   ```
 
 ## Requirements
 
