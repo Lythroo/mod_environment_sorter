@@ -8,7 +8,7 @@ This tool could be very useful if you are setting up a Minecraft server and want
 ## Requirements
 
 - Python 3.6+
-- Internet connection
+- Internet connection :D
 
 ## How It Works
 
