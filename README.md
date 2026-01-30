@@ -2,14 +2,6 @@
 
 Automatically sort Minecraft mods into client-only, server-only, and both using the Modrinth API.
 
-## Quick Start
-
-**GUI (recommended):**
-```bash
-python mod_sorter_gui.py
-```
-
-
 ## Requirements
 
 - Python 3.6+
