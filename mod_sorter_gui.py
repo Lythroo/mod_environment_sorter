@@ -1,8 +1,4 @@
 #!/usr/bin/env python3
-"""
-Minecraft Mod Sorter - GUI Version
-Graphical interface for sorting Minecraft mods by client-side, server-side and both
-"""
 
 import os
 import sys
