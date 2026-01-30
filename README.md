@@ -1,6 +1,7 @@
 # Minecraft Mod Sorter
 
 Automatically sort Minecraft mods into client-only, server-only, and both using the Modrinth API.
+This tool could be very useful if you are setting up a Minecraft server and want to prevent server-side mods from running on the client and client-side mods from running on the server.
 
    ![GUI Screenshot](screenshots/Preview.png)
 
