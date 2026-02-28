@@ -14,10 +14,10 @@ This tool could be very useful if you are setting up a Minecraft server and want
 
 The tool scans your mods folder and uses Modrinth's API to determine where each mod should be installed:
 
-- **client-only/** - Install only on client (shaders, minimaps, performance mods)
-- **server-only/** - Install only on server (management tools, anti-cheat)
-- **both/** - Install on both client and server (content mods, tech mods)
-- **unknown/** - Not found on Modrinth (check manually)
+- **client-only/**
+- **server-only/**
+- **both/**
+- **unknown/** - Not found on Modrinth
 
 ## Output
 
